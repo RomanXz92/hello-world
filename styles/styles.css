@@ -1,0 +1,17 @@
+
+/* main styles */
+
+.main{
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    margin: 0 auto;    
+}
+
+/* sidebar */
+
+.photo{
+    width: 350px;
+}
+
+
